@@ -5,7 +5,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1">
 
         <title>{{config('app.name', 'covidblog')}}</title>
-        <h1>About</h1>
+        <h1>Home</h1>
 
     </head>
     <body>
